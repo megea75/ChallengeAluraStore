@@ -10,13 +10,13 @@ Para eso debí evaluar información como los ingresos, las categorías más vend
 
  3.Ejemplos de gráficos e insights obtenidos
 Para presentar los resultados de forma clara y visual, he obtenido los siguientes gráficos diferentes:
-![Clasificacion promedio](iimagenes/ingresosTotales.png)
-![Clasificacion promedio](imagenes/clasificacionPromedio.png)
-![Clasificacion promedio](imagenes/clasificacionPromedio.png)
-![Clasificacion promedio](imagenes/clasificacionPromedio.png)
-![Clasificacion promedio](imagenes/clasificacionPromedio.png)
-![Clasificacion promedio](imagenes/clasificacionPromedio.png)
-![Clasificacion promedio](imagenes/clasificacionPromedio.png)
+![Ingresos totales por tienda](imagenes/ingresosTotales.png)
+![Clasificacion promedio](imagenes/ventasCategoria.png)
+![Clasificacion promedio por tienda](imagenes/clasificacionPromedio.png)
+![Clasificacion promedio](imagenes/masVendido.png)
+![Clasificacion promedio](imagenes/menosVendido.png)
+![Clasificacion promedio](imagenes/costoEnvio.png)
+
 
 
 4.Instrucciones para ejecutar el notebook
