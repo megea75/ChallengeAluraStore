@@ -20,6 +20,8 @@ Para presentar los resultados de forma clara y visual, he obtenido los siguiente
 
 
 4.Instrucciones para ejecutar el notebook
+
+
 Descagar el archivo AluraStoreLatam.ipynb y ejecutarlo en Google Colab.
  
 
