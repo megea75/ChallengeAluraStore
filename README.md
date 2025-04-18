@@ -10,7 +10,7 @@ Para eso debí evaluar información como los ingresos, las categorías más vend
 
  3.Ejemplos de gráficos e insights obtenidos
 Para presentar los resultados de forma clara y visual, he obtenido los siguientes gráficos diferentes:
-imagenes
+![Resultados del análisis](imagenes/grafico.png)
 
 4.Instrucciones para ejecutar el notebook
 Descagar el archivo AluraStoreLatam.ipynb y ejecutarlo en Google Colab.
